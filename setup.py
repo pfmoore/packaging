@@ -54,6 +54,7 @@ setup(
 
     install_requires=[
         "pyparsing>=2.0.2",  # Needed to avoid issue #91
+        "html5lib",
         "six",
     ],
 
